@@ -6,16 +6,16 @@ Building Africa’s Digital Future with AfriChain & LandFi 🌍
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dmtlhrx&show_icons=true&theme=tokyonight)
 
-## 🧠 Top Languages
+##  Top Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dmtlhrx&layout=compact&theme=tokyonight)
 
 
-## 🔥 Activity Graph
+##  Activity Graph
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Dmtlhrx&theme=react-dark)
 
 ---
 
-## 🛠️ Technologies & Web3 Stack
+##  Technologies & Web3 Stack
 - Solidity • Hedera • BSC • Hardhat  
 - Next.js • TypeScript • Zustand • API Design  
 - DeFi • Tokenization • Digital Identity  
@@ -23,7 +23,7 @@ Building Africa’s Digital Future with AfriChain & LandFi 🌍
 
 ---
 
-## 🌍 Projects I'm Building
+##  Projects I'm Building
 ### **AfriChain**
 The African Blockchain Ecosystem for Real-World Asset tokenization.
 
@@ -32,5 +32,5 @@ A Web3 marketplace that tokenizes land, real estate & property documents on BSC.
 
 ---
 
-## ✨ Let’s build the future together
-📩 DM for collaboration, partnerships, or Web3 engineering work.
+##  Let’s build the future together
+ DM for collaboration, partnerships, or Web3 engineering work.
