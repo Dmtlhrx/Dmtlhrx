@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Dimitri DOSSA (Dmtlhrx)
+### CTO – Blockchain Engineer – Web3 Architect  
+Building Africa’s Digital Future with AfriChain & LandFi 🌍
 
-<!--
-**Dmtlhrx/Dmtlhrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 GitHub Stats 2025
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dmtlhrx&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmtlhrx&layout=compact&theme=tokyonight)
+
+## 🔥 Activity Graph
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Dmtlhrx&theme=react-dark)
+
+---
+
+## 🛠️ Technologies & Web3 Stack
+- Solidity • Hedera • BSC • Hardhat  
+- Next.js • TypeScript • Zustand • API Design  
+- DeFi • Tokenization • Digital Identity  
+- Smart Contract Architecture • Dapp Development
+
+---
+
+## 🌍 Projects I'm Building
+### **AfriChain**
+The African Blockchain Ecosystem for Real-World Asset tokenization.
+
+### **LandFi**
+A Web3 marketplace that tokenizes land, real estate & property documents on BSC.
+
+---
+
+## ✨ Let’s build the future together
+📩 DM for collaboration, partnerships, or Web3 engineering work.
