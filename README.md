@@ -99,10 +99,6 @@ Web3 marketplace tokenizing land titles, real estate, and property documentation
   <img width="95%" src="./assets/3d-contrib.svg" alt="3d contributions" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dmtlhrx&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
-</p>
-
 ---
 
 ## Certifications

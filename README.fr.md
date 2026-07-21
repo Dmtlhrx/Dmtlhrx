@@ -99,10 +99,6 @@ Place de marché Web3 tokenisant les titres fonciers, l'immobilier et la documen
   <img width="95%" src="./assets/3d-contrib.svg" alt="contributions 3d" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dmtlhrx&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophees" />
-</p>
-
 ---
 
 ## Certifications
