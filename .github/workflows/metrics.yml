@@ -1,0 +1,33 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 6,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics (repos et langages, prives inclus)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Dmtlhrx
+          filename: github-metrics.svg
+          template: classic
+          base: header, repositories
+          repositories_affiliations: owner, collaborator, organization_member
+          config_timezone: Africa/Porto-Novo
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          output_action: commit
+          committer_token: ${{ secrets.METRICS_TOKEN }}
